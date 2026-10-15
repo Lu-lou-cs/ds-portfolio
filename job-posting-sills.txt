@@ -33,4 +33,4 @@ Data Preparation
 Communication
 Support Business Decision
 Cross-functional collaboration
-Stood out: What surprised me most was how similar the technical foundations were even though the companies operate in different industries. Starbucks is a coffee company, while Affirm is a financial technology company focused on consumer lending. Still, both want people who can use SQL and Python, analyze data, understand statistical models, communicate finding, and help teams make decision. 
+What stood out: What surprised me most was how similar the technical foundations were even though the companies operate in different industries. Starbucks is a coffee company, while Affirm is a financial technology company focused on consumer lending. Still, both want people who can use SQL and Python, analyze data, understand statistical models, communicate finding, and help teams make decision. 
