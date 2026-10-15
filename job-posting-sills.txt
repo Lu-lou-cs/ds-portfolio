@@ -1,0 +1,36 @@
+Posting 1
+Starbucks Data Scientist
+Industry: Coffee and consumer business; Data/ Business Strategy
+Seniority: Individual Contributor; asks for 1+ year of related experience
+Qualifications:
+-	1+year of experience in data science, applied analytics, or related works
+-	BA/BS degree or equivalent experience
+-	Proficiency with SQL and Python and/or R for data preparation, pipelines, and modeling
+-	Working knowledge of common modeling techniques: regression, classification, decision trees, clustering, and casual inference
+-	Experience with data visualization tools such as Tableau, Power BI, or similar
+-	Strong communication skills and attention to detail
+Preferred
+-	Degree concentration in a quantitative field such as Statistics, Math, Computer Science, Engineering, Economics, Psychology, Quantitative Social Science, or similar 
+-	Advanced degree (MS or PhD) 
+-	Experience working in shared analytics/engineering environments (version control, documentation, reproducible workflows)
+-	Experience supporting model measurement/monitoring through dashboards and performance reporting
+-	Expertise in building Bayesian elasticity models and causal inference  
+-	Experience in optimization techniques such as linear programming, mixed-integer programming, or heuristic algorithms for decision support
+Posting 2
+Analyst
+Industry: Financial technology, consumer lending, and payments
+Seniority: Analyst/early career; the posting asks for 1-3 years of experience
+Qualifications:
+-	1–3 years of experience in an analytically driven role. Relevant internships or prior experience in consumer lending, fintech, or the broader financial services industry are highly valued.
+-	Degree in Data Science, Computer Science, Engineering, Economics, or a related quantitative field.
+-	Solid working knowledge of SQL, Python, or other scripting languages.
+-	Familiarity with data mining, data visualization, and foundational statistical modeling.
+-	Basic understanding of, or deep curiosity about, consumer lending regulations, fair lending principles, and how machine learning techniques apply to real-world business problems.
+-	Exceptional communication skills, humility, and the ability to collaborate effectively with cross-functional peers.
+Common skills:
+SQL and Python
+Data Preparation
+Communication
+Support Business Decision
+Cross-functional collaboration
+Stood out: What surprised me most was how similar the technical foundations were even though the companies operate in different industries. Starbucks is a coffee company, while Affirm is a financial technology company focused on consumer lending. Still, both want people who can use SQL and Python, analyze data, understand statistical models, communicate finding, and help teams make decision. 
