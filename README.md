@@ -8,17 +8,25 @@ I became interested in data science because it combines problem-solving with pra
 **Skills**
 
 •	Python Fundamentals: Experience using variables, conditional statements, loops, and functions through coursework and programming assignments.
+
 •	Foundational Statistics: Understanding basic statistical concepts and their role in interpreting data.
+
 •	Data Organization: Organizing information and working with data in coursework.
+
 •	Communication: Explaining information clearly and adapting explanations to different audiences through tutoring and peer mentoring.
+
 •	Problem-Solving: Breaking larger tasks into smaller steps, testing solutions, and making improvements.
+
 •	Attention to Detail: Reviewing work carefully and checking information for accuracy.
+
 •	Collaboration: Working with students and staff from different backgrounds.
 
 **Skills in Progrss**
 
 •	Data Visualization: Learning how to communicate data patterns and findings through visual presentations.
+
 •	Statistical Modeling: Building a stronger understanding of statistical methods and their applications.
+
 •	Python Programming: Improving coding, debugging, and data analysis skills.
 
 **Reflection**
