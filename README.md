@@ -5,6 +5,14 @@ I am a Public Health student at Oregon State University with a growing interest 
 
 I became interested in data science because it combines problem-solving with practical applications. I find it meaningful that data analysis can help organizations understand complex problems and make better decisions. Through my coursework, I have started developing programming skills in Python and strengthening my understanding of statistics and data organization. I also value communication and collaboration because analytical findings are most useful when they can be clearly explained to others. In the future, I hope to combine my Public Health knowledge with data science skills and explore opportunities in health data analysis or biostatistics.
 
+**Career Goals**
+
+My career goal is to develop into a data analyst working in the healthcare or public health industry. I am interested in using data to identify health trends, understand differences in health outcomes, and provide information that can support better healthcare decisions. I believe this career would allow me to combine my background in Public Health with the technical and analytical skills I am developing through data science coursework. In the longer term, I am also interested in pursuing graduate study in biostatistics and exploring opportunities to work with health-related research data.
+
+The job postings helped me understand that data science skills are useful across different industries. Although these companies work in different fields, both emphasize Python, SQL, data preparation, statistical analysis, communication, and collaboration. This showed me that building a strong technical foundation is important for my career goal. I have started developing Python skills through coursework, including creating a text-based NIM game using variables, conditional statements, loops, and functions. I also have foundational statistics knowledge and experience organizing information.
+
+In addition to technical skills, my previous experience as a tutor and peer mentor has helped me develop communication, problem-solving, and collaboration skills. These abilities are important because data analysts need to explain findings clearly and work with people from different backgrounds. Moving forward, I plan to improve my Python and SQL skills, learn more about statistical modeling and data visualization, and gain practical experience through projects, internships, or research opportunities. My goal is to gradually build the technical knowledge and experience needed to contribute to data-driven decisions in healthcare.
+
 **Skills**
 
 •	Python Fundamentals: Experience using variables, conditional statements, loops, and functions through coursework and programming assignments.
@@ -28,12 +36,6 @@ I became interested in data science because it combines problem-solving with pra
 •	Statistical Modeling: Building a stronger understanding of statistical methods and their applications.
 
 •	Python Programming: Improving coding, debugging, and data analysis skills.
-
-**Reflection**
-
-One career goal I am working toward is developing the skills needed for an entry-level data analyst position, ideally in healthcare or public health. I am interested in using data to understand health trends, identify differences in health outcomes, and support decisions that improve people's access to healthcare. In the longer term, I would also like to explore biostatistics and determine whether graduate study in this area would be a good fit for me.
-
-To work toward this goal, I plan to strengthen my technical foundation in Python, SQL, statistics, and data visualization. I also want to gain practical experience through class projects, internships, or research opportunities where I can work with real data. The two job postings I reviewed showed me that technical skills are important across different industries, but communication and the ability to support decisions are also essential. My Public Health background and previous experience as a tutor and peer mentor have helped me develop communication, problem-solving, and collaboration skills. I hope to continue combining these strengths with technical knowledge as I prepare for a career in data science.
 
 **Projects**
 
