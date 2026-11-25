@@ -47,3 +47,7 @@ Created a text-based NIM game using Python as part of coursework. Practiced usin
 Future Projects
 
 More data science and public health-related projects will be added as I gain experience.
+
+**Resume**
+
+[View My Resume (PDF)](Data_Science_Resume_Draft.pdf)
