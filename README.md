@@ -1,9 +1,11 @@
 # ds-portfolio
 **Bio**
 
-I am a Public Health student at Oregon State University with a growing interest in data science and its applications in healthcare. My academic background has helped me understand how health issues affect individuals and communities, while my data science coursework has introduced me to programming, statistics, and analytical thinking. I am especially interested in how data can be used to identify health trends, understand differences in health outcomes, and support evidence-based decisions.
+## Bio
 
-I became interested in data science because it combines problem-solving with practical applications. I find it meaningful that data analysis can help organizations understand complex problems and make better decisions. Through my coursework, I have started developing programming skills in Python and strengthening my understanding of statistics and data organization. I also value communication and collaboration because analytical findings are most useful when they can be clearly explained to others. In the future, I hope to combine my Public Health knowledge with data science skills and explore opportunities in health data analysis or biostatistics.
+I am a Data Science student with a minor in Public Health at Oregon State University. My academic background has helped me develop an interest in applying data science to healthcare and public health. I am especially interested in how data can be used to identify health trends, understand differences in health outcomes, and support evidence-based decisions.
+
+I became interested in data science because it combines problem-solving with practical applications. Through my coursework, I have started developing programming skills in Python and strengthening my understanding of statistics and data organization. I also value communication and collaboration because analytical findings are most useful when they can be clearly explained to others. In the future, I hope to combine my data science skills and public health knowledge to explore opportunities in healthcare data analysis or biostatistics.
 
 **Career Goals**
 
