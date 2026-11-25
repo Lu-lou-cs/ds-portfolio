@@ -56,4 +56,4 @@ More data science and public health-related projects will be added as I gain exp
 
 You can reach me through my GitHub profile.
 
-GitHub: [Your GitHub Profile](https://github.com/Lu-lou-cs/ds-portfolio)
+GitHub: [Your GitHub Profile](https://github.com/)
