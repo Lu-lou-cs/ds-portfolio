@@ -51,3 +51,9 @@ More data science and public health-related projects will be added as I gain exp
 **Resume**
 
 [View My Resume (PDF)](Data_Science_Resume_Draft.pdf)
+
+**Contact**
+
+You can reach me through my GitHub profile.
+
+GitHub: [Your GitHub Profile](你的GitHub主页链接)
