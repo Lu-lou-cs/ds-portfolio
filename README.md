@@ -1,7 +1,6 @@
 # ds-portfolio
-**Bio**
 
-## Bio
+**Bio**
 
 I am a Data Science student with a minor in Public Health at Oregon State University. My academic background has helped me develop an interest in applying data science to healthcare and public health. I am especially interested in how data can be used to identify health trends, understand differences in health outcomes, and support evidence-based decisions.
 
